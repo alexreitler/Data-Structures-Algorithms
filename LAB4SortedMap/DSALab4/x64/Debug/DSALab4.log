@@ -1,0 +1,7 @@
+﻿  ExtendedTest.cpp
+D:\faculta\dsa\LAB4SortedMap\ExtendedTest.cpp(116,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\faculta\dsa\LAB4SortedMap\ExtendedTest.cpp(126,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\faculta\dsa\LAB4SortedMap\ExtendedTest.cpp(134,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\faculta\dsa\LAB4SortedMap\ExtendedTest.cpp(142,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\faculta\dsa\LAB4SortedMap\ExtendedTest.cpp(253,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  DSALab4.vcxproj -> D:\faculta\dsa\LAB4SortedMap\DSALab4\x64\Debug\DSALab4.exe
